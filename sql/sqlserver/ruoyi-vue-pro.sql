@@ -9648,26 +9648,6 @@ GO
 -- ----------------------------
 -- Records of system_sms_channel
 -- ----------------------------
-BEGIN TRANSACTION
-GO
-
-SET IDENTITY_INSERT [dbo].[system_sms_channel] ON
-GO
-
-INSERT INTO [dbo].[system_sms_channel] ([id], [signature], [code], [status], [remark], [api_key], [api_secret], [callback_url], [creator], [create_time], [updater], [update_time], [deleted]) VALUES (N'2', N'Ballcat', N'ALIYUN', N'0', N'啦啦啦', N'LTAI5tCnKso2uG3kJ5gRav88', N'fGJ5SNXL7P1NHNRmJ7DJaMJGPyE55C', NULL, N'', N'2021-03-31 11:53:10.0000000', N'1', N'2021-04-14 00:08:37.0000000', N'0')
-GO
-
-INSERT INTO [dbo].[system_sms_channel] ([id], [signature], [code], [status], [remark], [api_key], [api_secret], [callback_url], [creator], [create_time], [updater], [update_time], [deleted]) VALUES (N'4', N'测试渠道', N'DEBUG_DING_TALK', N'0', N'123', N'696b5d8ead48071237e4aa5861ff08dbadb2b4ded1c688a7b7c9afc615579859', N'SEC5c4e5ff888bc8a9923ae47f59e7ccd30af1f14d93c55b4e2c9cb094e35aeed67', NULL, N'1', N'2021-04-13 00:23:14.0000000', N'1', N'2022-03-27 20:29:49.0000000', N'0')
-GO
-
-INSERT INTO [dbo].[system_sms_channel] ([id], [signature], [code], [status], [remark], [api_key], [api_secret], [callback_url], [creator], [create_time], [updater], [update_time], [deleted]) VALUES (N'6', N'测试演示', N'DEBUG_DING_TALK', N'0', NULL, N'696b5d8ead48071237e4aa5861ff08dbadb2b4ded1c688a7b7c9afc615579859', N'SEC5c4e5ff888bc8a9923ae47f59e7ccd30af1f14d93c55b4e2c9cb094e35aeed67', NULL, N'1', N'2022-04-10 23:07:59.0000000', N'1', N'2022-04-10 23:07:59.0000000', N'0')
-GO
-
-SET IDENTITY_INSERT [dbo].[system_sms_channel] OFF
-GO
-
-COMMIT
-GO
 
 
 -- ----------------------------
