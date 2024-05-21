@@ -1,0 +1,2 @@
+cn.xiaodong.infra.framework.idempotent.config.XiaodongIdempotentConfiguration
+cn.xiaodong.infra.framework.lock4j.config.XiaodongLock4jConfiguration

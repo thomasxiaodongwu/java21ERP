@@ -1,0 +1,2 @@
+cn.xiaodong.infra.framework.quartz.config.XiaodongXxlJobAutoConfiguration
+cn.xiaodong.infra.framework.quartz.config.XiaodongAsyncAutoConfiguration

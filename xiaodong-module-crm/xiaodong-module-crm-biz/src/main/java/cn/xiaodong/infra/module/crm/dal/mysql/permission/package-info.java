@@ -1,0 +1,1 @@
+package cn.xiaodong.infra.module.crm.dal.mysql.permission;

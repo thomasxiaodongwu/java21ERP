@@ -1,0 +1,2 @@
+cn.xiaodong.infra.framework.redis.config.XiaodongRedisAutoConfiguration
+cn.xiaodong.infra.framework.redis.config.XiaodongCacheAutoConfiguration

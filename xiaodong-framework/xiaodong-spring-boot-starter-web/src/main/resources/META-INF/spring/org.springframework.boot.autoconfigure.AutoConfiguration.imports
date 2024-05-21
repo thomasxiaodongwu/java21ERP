@@ -1,0 +1,8 @@
+cn.xiaodong.infra.framework.apilog.config.XiaodongApiLogAutoConfiguration
+cn.xiaodong.infra.framework.jackson.config.XiaodongJacksonAutoConfiguration
+cn.xiaodong.infra.framework.swagger.config.XiaodongSwaggerAutoConfiguration
+cn.xiaodong.infra.framework.web.config.XiaodongWebAutoConfiguration
+cn.xiaodong.infra.framework.apilog.config.XiaodongApiLogRpcAutoConfiguration
+cn.xiaodong.infra.framework.banner.config.XiaodongBannerAutoConfiguration
+cn.xiaodong.infra.framework.errorcode.config.XiaodongErrorCodeRpcAutoConfiguration
+cn.xiaodong.infra.framework.errorcode.config.XiaodongErrorCodeAutoConfiguration

@@ -1,0 +1,1 @@
+package cn.xiaodong.infra.module.crm.framework.permission.core;

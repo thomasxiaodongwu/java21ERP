@@ -1,0 +1,5 @@
+cn.xiaodong.infra.framework.security.config.XiaodongSecurityRpcAutoConfiguration
+cn.xiaodong.infra.framework.security.config.XiaodongSecurityAutoConfiguration
+cn.xiaodong.infra.framework.security.config.XiaodongWebSecurityConfigurerAdapter
+cn.xiaodong.infra.framework.operatelog.config.XiaodongOperateLogV2Configuration
+cn.xiaodong.infra.framework.operatelog.config.XiaodongOperateLogV2RpcAutoConfiguration

@@ -1,0 +1,3 @@
+cn.xiaodong.infra.framework.mq.redis.config.XiaodongRedisMQProducerAutoConfiguration
+cn.xiaodong.infra.framework.mq.redis.config.XiaodongRedisMQConsumerAutoConfiguration
+cn.xiaodong.infra.framework.mq.rabbitmq.config.XiaodongRabbitMQAutoConfiguration

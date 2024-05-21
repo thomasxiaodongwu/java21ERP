@@ -1,0 +1,2 @@
+cn.xiaodong.infra.framework.datasource.config.XiaodongDataSourceAutoConfiguration
+cn.xiaodong.infra.framework.mybatis.config.XiaodongMybatisAutoConfiguration

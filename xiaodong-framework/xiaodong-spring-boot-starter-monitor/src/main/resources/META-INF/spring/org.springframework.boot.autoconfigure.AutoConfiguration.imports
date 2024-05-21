@@ -1,0 +1,2 @@
+cn.xiaodong.infra.framework.tracer.config.XiaodongTracerAutoConfiguration
+cn.xiaodong.infra.framework.tracer.config.XiaodongMetricsAutoConfiguration

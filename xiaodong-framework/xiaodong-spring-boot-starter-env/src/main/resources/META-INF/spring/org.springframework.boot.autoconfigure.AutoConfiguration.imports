@@ -1,0 +1,2 @@
+cn.xiaodong.infra.framework.env.config.XiaodongEnvWebAutoConfiguration
+cn.xiaodong.infra.framework.env.config.XiaodongEnvRpcAutoConfiguration
